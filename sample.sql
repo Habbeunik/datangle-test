@@ -1,1 +1,1 @@
-SELECT * FROM table
+SELECT * FROM record
